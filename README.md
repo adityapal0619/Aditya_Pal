@@ -1,10 +1,18 @@
-# Aditya_Pal
-<h1 align="center">Hi 👋, I'm Aditya Pal</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapal0619&label=Profile%20views&color=0e75b6&style=flat" alt="adityapal0619" /> </p>
 
-- 🔭 I’m currently working on **MVC project**
+- 🔭 I’m currently working on **.NET MVC**
 
 - 🌱 I’m currently learning **C#,.net,MVC**
 
@@ -14,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-pal-21816b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-pal-21816b200/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/adityadd2001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityadd2001?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-pal-21816b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya pal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityadd2001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityadd2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/adityadd2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/adityadd2001" height="30" width="40" /></a>
 </p>
 
@@ -27,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapal0619&show_icons=true&locale=en" alt="adityapal0619" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapal0619&" alt="adityapal0619" /></p>
+
+</body>
+</html>
