@@ -2,7 +2,7 @@
 <h3 align="center">D365 Developer | Full-Stack Enthusiast | Tech Explorer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapal0619&label=Profile%20views&color=0e75b6&style=flat" alt="adityapal0619" /> </p>
 <p align="center">
-  <img alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQi6NWWKDnsKTEXvVN8BCCZGR1NXmqWQHw7k_1WNHAadUIXp5az9YoXH4gn_PbyQK2S4U&usqp=CAU">
+  <img alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQi6NWWKDnsKTEXvVN8BCCZGR1NXmqWQHw7k_1WNHAadUIXp5az9YoXH4gn_PbyQK2S4U&usqp=CAU">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapal0619" alt="adityapal0619" /></a> </p>
